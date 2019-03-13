@@ -1,0 +1,4 @@
+#Ignore big coppy file and destination folder
+/Folder
+plik*
+coppy
